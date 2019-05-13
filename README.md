@@ -1,1 +1,1 @@
-# sample-login-registartion-spring-boot
+# sample-login-registration-spring-boot
